@@ -1,2 +1,5 @@
-# Analise_de_Dados
-Apresentar Projetos de Análise de Dados
+# Analise de Dados
+
+Objetivo: Apresentar projetos de analise de dados.
+
+Principais Ferramentas: Integration Service, SQL, Python
