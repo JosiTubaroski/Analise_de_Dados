@@ -10,4 +10,4 @@
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb">2 - API IBGE Agropecuarios com suínos</a></p>
 </div> 
 
-<b>Principais Ferramentas:</b> Integration Service, SQL, Python
+<b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
