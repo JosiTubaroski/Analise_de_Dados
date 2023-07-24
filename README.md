@@ -21,7 +21,7 @@
  - Jupyter
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/CriandoNovoJupyterNotebook/01%20-%20Criar%20um%20Novo%20Notebook.ipynb">1 - Criando um novo Jupyter Notebook</a></p>
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/NovoNote/01%20-%20Criar%20um%20Novo%20Notebook.ipynb">1 - Criando um novo Jupyter Notebook</a></p>
 </div> 
  
 
