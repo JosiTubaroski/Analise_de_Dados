@@ -2,6 +2,9 @@
 
 <b>Objetivo:</b> Apresentar projetos de analise de dados.
 
+<h3 align="left">Instalações:</h3>
+
+
 <h3 align="left">Projetos de Dados:</h3>
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Prevencao_Lavagem_Dinheiro/Rastreamento_prevencao_Lavagem_Dinheiro.ipynb">1 - Prevenção a Lavagem de Dinheiro</a></p>
