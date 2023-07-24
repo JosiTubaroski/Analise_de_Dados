@@ -16,4 +16,14 @@
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb">2 - API IBGE Agropecuarios com suínos</a></p>
 </div> 
 
+<h3 align="left">Dicas:</h3>
+
+ - Jupyter
+
+<div> 
+<p><a href="01 - Criar um Novo Notebook.ipynb">1 - Criando um novo Jupyter Notebook</a></p>
+</div> 
+ 
+
+
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
