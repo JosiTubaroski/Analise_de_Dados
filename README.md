@@ -37,7 +37,7 @@
 
  - SQL
 <div> 
-<p><a href="https://matplotlib.org/stable/gallery/index.html">1 - Modelos de Relatorio Matplotlib</a></p>
+<p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
 </div> 
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
