@@ -35,5 +35,7 @@
  2 - Exemplo Grafico 'Horizontal_Bar_Chart'</a></p>
 </div> 
 
+ - SQL
+
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
