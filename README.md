@@ -36,6 +36,8 @@
 </div> 
 
  - SQL
-
+<div> 
+<p><a href="https://matplotlib.org/stable/gallery/index.html">1 - Modelos de Relatorio Matplotlib</a></p>
+</div> 
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
