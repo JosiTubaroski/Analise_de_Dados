@@ -30,5 +30,10 @@
 <p><a href="https://matplotlib.org/stable/gallery/index.html">1 - Modelos de Relatorio Matplotlib</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Horizontal_Bar_Chart/02_Grafico_Horizontal_Bar_Chart.ipynb">
+ 2 - Exemplo Grafico 'Horizontal_Bar_Chart'</a></p>
+</div> 
+
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
