@@ -1,6 +1,6 @@
 # ✨ Analise de Dados
 
-<b>Objetivo:</b> Apresentar projetos de analise de dados.
+<b>Objetivo:</b> Apresentar projetos e conteudos sobre analise de dados.
 
 <h3 align="left">Instalações:</h3>
 
