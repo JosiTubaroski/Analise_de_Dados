@@ -46,7 +46,7 @@
 
  - JSON
 <div> 
-<p><a href="https://github.com/JosiTubaroski/SQL">1 - Arquivos JSON em Python</a></p>
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">1 - Arquivos JSON em Python</a></p>
 </div> 
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
