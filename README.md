@@ -49,4 +49,9 @@
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">1 - Arquivos JSON em Python</a></p>
 </div> 
 
-<b>Principais Ferramentas:</b> Integration Service, SQL, Python, API
+ - Dashboards Power BI
+<div> 
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYmMwNTY5YTUtYjhkMi00NDJhLTgyNWYtODFhZjEwNTgyNTEzIiwidCI6IjA5ZGM2NmU5LTViNGYtNDA4My04MWM1LWZmODU2YjM3Mjc0MyJ9">1 - Exemplo de Dashboard de Vendas</a></p>
+</div> 
+
+<b>Principais Ferramentas:</b> Integration Service, SQL, Python, API, Power BI
