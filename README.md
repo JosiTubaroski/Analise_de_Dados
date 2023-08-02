@@ -21,7 +21,7 @@
  - Jupyter
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/NovoNote/01%20-%20Criar%20um%20Novo%20Notebook.ipynb">1 - Criando um novo Jupyter Notebook</a></p>
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/NovoNote/01%20-%20Criar%20um%20Novo%20Notebook.ipynb">Criando um novo Jupyter Notebook</a></p>
 </div> 
 
  - Matplotlib
@@ -46,12 +46,12 @@
 
  - JSON
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">1 - Arquivos JSON em Python</a></p>
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
 </div> 
 
  - Dashboards Power BI
 <div> 
-<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYmMwNTY5YTUtYjhkMi00NDJhLTgyNWYtODFhZjEwNTgyNTEzIiwidCI6IjA5ZGM2NmU5LTViNGYtNDA4My04MWM1LWZmODU2YjM3Mjc0MyJ9">1 - Exemplo de Dashboard de Vendas</a></p>
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYmMwNTY5YTUtYjhkMi00NDJhLTgyNWYtODFhZjEwNTgyNTEzIiwidCI6IjA5ZGM2NmU5LTViNGYtNDA4My04MWM1LWZmODU2YjM3Mjc0MyJ9">Exemplo de Dashboard de Vendas</a></p>
 </div> 
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API, Power BI
