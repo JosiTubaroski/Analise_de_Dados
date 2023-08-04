@@ -18,6 +18,25 @@
 
 <h3 align="left">Conteudos:</h3>
 
+ - SQL
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">2 - Programação Stored Procedures</a></p>
+</div> 
+
+ - ETL - Integration Service
+<div> 
+<p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">ETL - Sobre Integration Services e arquivos de exemplos DTSX.</a></p>
+</div> 
+
+ - Dashboards Power BI
+<div> 
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYmMwNTY5YTUtYjhkMi00NDJhLTgyNWYtODFhZjEwNTgyNTEzIiwidCI6IjA5ZGM2NmU5LTViNGYtNDA4My04MWM1LWZmODU2YjM3Mjc0MyJ9">Exemplo de Dashboard de Vendas</a></p>
+</div> 
+
  - Jupyter
 
 <div> 
@@ -35,28 +54,11 @@
  2 - Exemplo Grafico 'Horizontal_Bar_Chart'</a></p>
 </div> 
 
- - SQL
-<div> 
-<p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">2 - Programação Stored Procedures</a></p>
-</div> 
-
- - ETL - Integration Service
-<div> 
-<p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">ETL - Sobre Integration Services e arquivos de exemplos DTSX.</a></p>
-</div> 
-
- - JSON
+ - Sobre a leitura e entendimento de arquicvos JSON
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
 </div> 
 
- - Dashboards Power BI
-<div> 
-<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYmMwNTY5YTUtYjhkMi00NDJhLTgyNWYtODFhZjEwNTgyNTEzIiwidCI6IjA5ZGM2NmU5LTViNGYtNDA4My04MWM1LWZmODU2YjM3Mjc0MyJ9">Exemplo de Dashboard de Vendas</a></p>
-</div> 
+
 
 <b>Principais Ferramentas:</b> Integration Service, SQL, Python, API, Power BI
