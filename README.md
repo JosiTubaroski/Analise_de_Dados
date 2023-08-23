@@ -47,8 +47,6 @@
 <p><a href="https://github.com/JosiTubaroski/Jupyter-exercises">Exercicios Jupyter Notebook </a></p>
 </div> 
 
-Jupyter-exercises
-
  - Matplotlib
 
 <div> 
