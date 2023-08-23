@@ -43,6 +43,12 @@
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/NovoNote/01%20-%20Criar%20um%20Novo%20Notebook.ipynb">Criando um novo Jupyter Notebook</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Jupyter-exercises">Exercicios Jupyter Notebook </a></p>
+</div> 
+
+Jupyter-exercises
+
  - Matplotlib
 
 <div> 
