@@ -47,7 +47,7 @@
 <p><a href="https://github.com/JosiTubaroski/Jupyter-exercises">Exercicios Jupyter Notebook </a></p>
 </div> 
 
- - Matplotlib
+ - Relatorios/Python/Jupyter
 
 <div> 
 <p><a href="https://matplotlib.org/stable/gallery/index.html">1 - Modelos de Relatorio Matplotlib</a></p>
