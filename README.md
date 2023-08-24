@@ -58,6 +58,13 @@
  2 - Exemplo Grafico 'Horizontal_Bar_Chart'</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
+ 3 - Exercicios Relatórios Jupyter Notebook</a></p>
+</div> 
+
+
+
  - Sobre a leitura e entendimento de arquicvos JSON
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
