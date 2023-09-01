@@ -36,6 +36,10 @@
 <p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main#readme">2 - ETL utilizando Bulk Insert.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main/Substring_Leitura_layout_arquivo">3 - Utilizando substring para layout de arquivo com delimitador.</a></p>
+</div> 
+
 
 
  - Dashboards Power BI
