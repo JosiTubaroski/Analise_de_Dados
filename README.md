@@ -32,6 +32,12 @@
 <p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">1 - Integration Services e exemplos de arquivos DTSX.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main#readme">2 - ETL utilizando Bulk Insert.</a></p>
+</div> 
+
+
+
  - Dashboards Power BI
 <div> 
 <p><a href="https://app.powerbi.com/view?r=eyJrIjoiYmMwNTY5YTUtYjhkMi00NDJhLTgyNWYtODFhZjEwNTgyNTEzIiwidCI6IjA5ZGM2NmU5LTViNGYtNDA4My04MWM1LWZmODU2YjM3Mjc0MyJ9">Exemplo de Dashboard de Vendas</a></p>
