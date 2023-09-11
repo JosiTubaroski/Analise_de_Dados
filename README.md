@@ -27,6 +27,12 @@
 <p><a href="https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">2 - Programação Stored Procedures</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.">3 - Tuning SQL Server Developer</a></p>
+</div> 
+
+
+
  - ETL (Extract, Transform, Load)
 <div> 
 <p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">1 - Integration Services e exemplos de arquivos DTSX.</a></p>
