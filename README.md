@@ -31,6 +31,12 @@
 <p><a href="https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.">3 - Tuning SQL Server Developer</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.">4 - Importar arquivos JSON no SQL</a></p>
+</div> 
+
+
+
 
 
  - ETL (Extract, Transform, Load)
