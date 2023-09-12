@@ -32,7 +32,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.">4 - Importar arquivos JSON no SQL</a></p>
+<p><a href="https://github.com/JosiTubaroski/SQL/blob/main/02_Importar_Arquivo_JsonSQL.sql">4 - Importar arquivos JSON no SQL</a></p>
 </div> 
 
 
