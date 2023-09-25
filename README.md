@@ -63,6 +63,11 @@
 <p><a href="https://github.com/JosiTubaroski/Jupyter-exercises">Exercicios Jupyter Notebook </a></p>
 </div> 
 
+ - Leitura e entendimento de arquivos JSON
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
+</div> 
+
  - Relatorios/Python/Jupyter
 
 <div> 
@@ -81,10 +86,7 @@
 
 
 
- - Sobre a leitura e entendimento de arquicvos JSON
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
-</div> 
+
 
 
 
