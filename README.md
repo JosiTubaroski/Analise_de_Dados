@@ -31,6 +31,10 @@
 <p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main/Substring_Leitura_layout_arquivo">3 - Utilizando substring para layout de arquivo com delimitador.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python.</a></p>
+</div> 
+
  - SQL
 <div> 
 <p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
