@@ -44,7 +44,7 @@
  - Airflow / ETL
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">1 - Script de uma DAG que realiza a leitura de um arquivo .csv.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py">1 - Script de uma DAG que realiza a leitura de um arquivo .csv.</a></p>
 </div> 
    
  - SQL
