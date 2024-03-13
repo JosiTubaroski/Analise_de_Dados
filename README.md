@@ -41,6 +41,9 @@
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python.</a></p>
 </div> 
 
+ - Airflow / ETL
+
+   
  - SQL
 <div> 
 <p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
