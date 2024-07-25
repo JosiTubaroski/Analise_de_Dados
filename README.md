@@ -61,7 +61,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/SQL/blob/main/02_Importar_Arquivo_JsonSQL.sql">4 - Importar arquivos JSON no SQL</a></p>
+<p><a href="https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql">4 - Importar arquivos JSON no SQL</a></p>
 </div> 
 
  - Dashboards Power BI
