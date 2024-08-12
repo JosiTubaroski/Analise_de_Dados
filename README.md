@@ -2,7 +2,7 @@
 # ✨ Git/GitHub
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Data_Enginer/blob/main/README.md">Sobre Git/GitHub </a></p>
+<p><a href="https://github.com/JosiTubaroski/Git_GitHub">Sobre Git/GitHub </a></p>
 </div> 
 
 # ✨ Engenharia de Dados
