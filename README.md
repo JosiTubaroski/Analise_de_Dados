@@ -29,6 +29,11 @@
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb">2 - API IBGE Agropecuarios com suínos</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/README.md">3 - Pipeline de Dados com Airflow, para processamento de dados de Cliente </a></p>
+</div> 
+
+
 <h3 align="left">Conteúdos:</h3>
 
  - ETL (Extract, Transform, Load)
