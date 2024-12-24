@@ -49,14 +49,9 @@
 </div> 
 
 
-- Execução automatica de Atividades
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Python_Windows_Services">
- 1 - Python | COMO INSTALAR UM SCRIPT PYTHON NO WINDOWS SERVICES </a></p>
-</div> 
 
 
 
 
-<b>Principais Ferramentas:</b> Integration Service, SQL, Python, API, Power BI
+
+
