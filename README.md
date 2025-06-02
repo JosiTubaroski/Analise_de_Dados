@@ -49,7 +49,7 @@
 # ✨ Conteúdo exclusivo
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados_Exclusivo">
  Conteúdo exclusivo.</a></p>
 </div> 
 
