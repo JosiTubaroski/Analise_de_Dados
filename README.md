@@ -46,9 +46,11 @@
  3 - Exercicios Relatórios Jupyter Notebook</a></p>
 </div> 
 
+# ✨ Conteúdo exclusivo
+
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
- Exclusive</a></p>
+ Conteúdo exclusivo.</a></p>
 </div> 
 
 
