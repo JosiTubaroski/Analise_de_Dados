@@ -3,8 +3,6 @@
 <p><a href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md">Home</a></p>
 </div> 
 
-
-
 # ✨ Analise de Dados
 
 <b>Objetivo:</b> Apresentar projetos e conteudos sobre analise de dados.
@@ -46,6 +44,11 @@
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
  3 - Exercicios Relatórios Jupyter Notebook</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
+ Exclusive</a></p>
 </div> 
 
 
